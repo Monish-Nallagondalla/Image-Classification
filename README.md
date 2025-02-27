@@ -2,7 +2,6 @@
 
 This project focuses on classifying images of sports celebrities (and other notable figures) using a machine learning pipeline. The initial step involves data cleaning and preprocessing, where raw images are processed to detect and crop faces with at least two visible eyes. Features are then extracted using wavelet transforms to prepare the data for training a classifier.
 
-Special thanks to **Debjyoti Paul**, a data scientist friend at Amazon, for his guidance on this project.
 
 ## Project Overview
 
